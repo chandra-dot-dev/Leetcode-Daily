@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
