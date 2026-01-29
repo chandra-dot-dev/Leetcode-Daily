@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
