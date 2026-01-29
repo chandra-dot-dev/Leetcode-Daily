@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
