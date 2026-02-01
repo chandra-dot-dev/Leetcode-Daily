@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
