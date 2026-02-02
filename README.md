@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
