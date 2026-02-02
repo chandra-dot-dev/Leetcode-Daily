@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
