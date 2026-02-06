@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
