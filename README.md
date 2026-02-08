@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -136,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
