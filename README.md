@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
