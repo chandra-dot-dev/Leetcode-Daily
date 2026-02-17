@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 ## String Matching
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Linked List
 |  |
