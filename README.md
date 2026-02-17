@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
