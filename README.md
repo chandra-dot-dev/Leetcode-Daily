@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
+| [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Two Pointers
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
