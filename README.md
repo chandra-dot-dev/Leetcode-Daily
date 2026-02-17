@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
