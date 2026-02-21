@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
+| [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
