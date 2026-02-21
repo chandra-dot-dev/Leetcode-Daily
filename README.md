@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
