@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
