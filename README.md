@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Linked List
 |  |
