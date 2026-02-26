@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
