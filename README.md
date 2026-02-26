@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0735-asteroid-collision](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 ## Interactive
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Data Stream
 |  |
 | ------- |
