@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0735-asteroid-collision) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
