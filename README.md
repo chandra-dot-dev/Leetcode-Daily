@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Counting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
 | ------- |
