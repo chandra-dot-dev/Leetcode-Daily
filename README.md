@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Monotonic Stack
 |  |
 | ------- |
