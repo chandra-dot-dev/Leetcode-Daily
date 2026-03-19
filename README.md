@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
