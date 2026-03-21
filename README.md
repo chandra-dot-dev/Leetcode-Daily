@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
 | [0973-k-closest-points-to-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1009-complement-of-base-10-integer) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
