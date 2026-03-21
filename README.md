@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0056-merge-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
