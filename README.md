@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-find-the-difference-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
