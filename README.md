@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
+| [1089-duplicate-zeros](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1089-duplicate-zeros) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
