@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0724-find-pivot-index) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0860-lemonade-change) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
