@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
