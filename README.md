@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0357-count-numbers-with-unique-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0357-count-numbers-with-unique-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0357-count-numbers-with-unique-digits) |
 | [1980-find-unique-binary-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
 ## Database
 |  |
