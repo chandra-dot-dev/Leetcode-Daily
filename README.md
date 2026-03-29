@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 ## String Matching
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Linked List
