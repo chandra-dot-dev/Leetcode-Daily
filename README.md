@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
