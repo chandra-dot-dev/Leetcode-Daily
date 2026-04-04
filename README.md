@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
