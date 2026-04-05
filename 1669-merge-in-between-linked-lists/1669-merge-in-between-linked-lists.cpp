@@ -13,7 +13,7 @@ public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
         ListNode* temp = list1;
         for(int i =0;i<a-1;i++){
-            temp= temp->next;
+            temp = temp->next;
         }
         ListNode* leftPartEnd = temp;
         for(int i =0;i<b-a+1;i++){
@@ -21,9 +21,11 @@ public:
         }
         ListNode* rightPart = temp->next;
         leftPartEnd->next = list2;
+       
         while(list2->next!=nullptr){
-            list2=list2->next;
+            list2 = list2->next;
         }
+
         list2->next = rightPart;
         return list1;
     }
