@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0057-insert-interval) |
 | [0228-summary-ranges](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0228-summary-ranges) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
