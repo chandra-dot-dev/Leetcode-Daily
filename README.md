@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
