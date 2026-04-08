@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
 ## Prefix Sum
