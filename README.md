@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
