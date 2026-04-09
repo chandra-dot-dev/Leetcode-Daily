@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1716-calculate-money-in-leetcode-bank](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
+| [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3546-equal-sum-grid-partition-i) |
 ## Brainteaser
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
