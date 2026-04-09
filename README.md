@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1668-maximum-repeating-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1668-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0357-count-numbers-with-unique-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1668-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
