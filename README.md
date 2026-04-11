@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sliding Window
 |  |
 | ------- |
