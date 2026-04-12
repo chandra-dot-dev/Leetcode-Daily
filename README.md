@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0950-reveal-cards-in-increasing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
 ## Interactive
 |  |
