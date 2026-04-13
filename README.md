@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-find-subarrays-with-equal-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 ## String Matching
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-find-subarrays-with-equal-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Interactive
 |  |
 | ------- |
