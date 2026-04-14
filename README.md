@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sweep Line
 |  |
 | ------- |
