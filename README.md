@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-flip-square-submatrix-vertically](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
 ## Interactive
 |  |
 | ------- |
