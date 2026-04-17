@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3813-vowel-consonant-score](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3813-vowel-consonant-score) |
 | [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
 ## Interactive
 |  |
