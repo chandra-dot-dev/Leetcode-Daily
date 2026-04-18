@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
