@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0925-long-pressed-name) |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
