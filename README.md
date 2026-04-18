@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0649-dota2-senate) |
+| [0771-jewels-and-stones](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
