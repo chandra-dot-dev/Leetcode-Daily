@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0804-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
