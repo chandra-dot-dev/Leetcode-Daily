@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
+| [1332-remove-palindromic-subsequences](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-long-pressed-name](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0925-long-pressed-name) |
 | [0986-interval-list-intersections](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1332-remove-palindromic-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
