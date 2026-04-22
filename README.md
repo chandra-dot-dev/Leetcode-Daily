@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3456-find-special-substring-of-length-k) |
 | [3813-vowel-consonant-score](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3813-vowel-consonant-score) |
 ## String Matching
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3668-restore-finishing-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3668-restore-finishing-order) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
 |  |
 | ------- |
