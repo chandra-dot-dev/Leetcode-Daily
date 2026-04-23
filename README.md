@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1089-duplicate-zeros) |
 | [1094-car-pooling](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1094-car-pooling) |
+| [1207-unique-number-of-occurrences](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1436-destination-city](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1436-destination-city) |
