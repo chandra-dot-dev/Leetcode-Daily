@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3546-equal-sum-grid-partition-i) |
