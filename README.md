@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3110-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2248-intersection-of-multiple-arrays](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2351-first-letter-to-appear-twice) |
+| [2833-furthest-point-from-origin](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
 |  |
