@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1512-number-of-good-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
