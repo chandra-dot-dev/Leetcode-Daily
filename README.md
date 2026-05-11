@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-find-subarrays-with-equal-sum](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2553-separate-the-digits-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2906-construct-product-matrix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3813-vowel-consonant-score](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3813-vowel-consonant-score) |
 | [3842-toggle-light-bulbs](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3842-toggle-light-bulbs) |
