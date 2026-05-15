@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0357-count-numbers-with-unique-digits) |
