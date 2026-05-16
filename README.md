@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
