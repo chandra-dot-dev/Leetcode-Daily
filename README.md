@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0056-merge-intervals) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
