@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0344-reverse-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/0143-reorder-list) |
