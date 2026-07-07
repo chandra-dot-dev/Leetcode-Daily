@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2169-count-operations-to-obtain-zero](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/2427-number-of-common-factors) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chandra-dot-dev/Leetcode-Daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
